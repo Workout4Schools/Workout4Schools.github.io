@@ -1,2 +1,2 @@
 # Workout4Schools.github.io
-# Locaties wordt rood, Lessen blauw en Contact wordt geel en de hoofdpagina wordt een mengeling van alles
+# Locaties wordt geel, Lessen blauw en Contact wordt rood en de hoofdpagina wordt een mengeling van alles.
