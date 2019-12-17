@@ -46,9 +46,9 @@ body {
 }
 #cssmenu > ul > li {
   float: left;
-  -webkit-perspective: 1000px;
-  -moz-perspective: 1000px;
-  perspective: 1000px;
+  -webkit-perspective: 500px;
+  -moz-perspective: 500px;
+  perspective: 500px;
 }
 #cssmenu.align-center > ul {
   font-size: 0;
