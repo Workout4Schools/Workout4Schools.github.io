@@ -1,11 +1,11 @@
-.bordered {
+.borderd {
   display: flex;
   justify-content: space-around;
   flex-direction: row;
 }
 
 body {
-  background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcmkt-image-prd.global.ssl.fastly.net%2F0.1.0%2Fps%2F3586236%2F1360%2F906%2Fm1%2Ffpnw%2Fwm0%2Fmupy5elhpi5g4mppdvjcb4iv3zomepcrd8cd9tttrwecjc4rfckp3zr5uh9oxkhp-.jpg%3F1510820821%26s%3D5375116462a25a1f1af4f83c105ae30d&f=1&nofb=1");
+  background-image: url("http://www.webdesigndev.com/wp-content/uploads/2015/02/5-Folded-Paper-Backgrounds.jpg");
 }
 
 #cssmenu,
@@ -46,9 +46,9 @@ body {
 }
 #cssmenu > ul > li {
   float: left;
-  -webkit-perspective: 1000px;
-  -moz-perspective: 1000px;
-  perspective: 1000px;
+  -webkit-perspective: 500px;
+  -moz-perspective: 500px;
+  perspective: 500px;
 }
 #cssmenu.align-center > ul {
   font-size: 0;
