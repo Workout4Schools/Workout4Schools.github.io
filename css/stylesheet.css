@@ -4,6 +4,10 @@
   flex-direction: row;
 }
 
+.img{
+
+}
+
 .h2 {
   font-family: "Arial Black", Gadget, sans-serif;
   font-size: 26px;
@@ -50,9 +54,12 @@ body {
   display: none;
 }
 #cssmenu {
-  width: auto;
+  width: 525px;
   font-family: Raleway, sans-serif;
   line-height: 1;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 #cssmenu > ul {
   background: #3db2e1;
